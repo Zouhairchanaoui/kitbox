@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Design tokens — source of truth lives in replica/design/tokens.css,
+   copied here so NativeWind v4's CSS-variable support can read them. */
+@import '../replica/design/tokens.css';

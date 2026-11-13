@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Kitbox",
+    "slug": "kitbox",
+    "scheme": "kitbox",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "app.kitbox.android",
+      "adaptiveIcon": {
+        "backgroundColor": "#6D28D9"
+      }
+    },
+    "plugins": ["expo-router"]
+  }
+}
