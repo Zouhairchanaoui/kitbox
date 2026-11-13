@@ -1,0 +1,21 @@
+{
+  "avoid": [
+    "Appteka",
+    "AppTeka",
+    "App Teka",
+    "appteka.store",
+    "Appsend",
+    "AppSend",
+    "tomclaw",
+    "Appteka Store"
+  ],
+  "domains": [
+    "appteka.store",
+    "github.com/solkin/appteka-android"
+  ],
+  "colors": [
+    "#32A304"
+  ],
+  "chosen_name": "Kitbox",
+  "palette_tokens_file": "replica/design/tokens.json"
+}
